@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debora</h1>
+<h2 align="center">Hi 👋, I'm Debora</h2>
 <h3 align="center">Quantitative Analyst</h3>
 
 - 🌱 I’m currently learning **Data Science & AI at LeWagon**
